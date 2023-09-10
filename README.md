@@ -1,7 +1,13 @@
 ![ClippedTB](Images/banner.png)
 # ClippedTB
 #### Add margins, rounded corners as clip region to your taskbars!   
-Most importantly, it is anti-aliased!
+Most importantly, it is **anti-aliased**!
+
+- Compatible with RoundedTB!   
+- Compatible with TranslucentTB!
+- Compatible with TranslucentFlyouts!   
+- Compatible with StartAllBack!
+- Compatible with ExplorerPatcher!
 
 ![image](Images/screenshot.png)
 ## To use
