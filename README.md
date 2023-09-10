@@ -1,9 +1,9 @@
-![ClippedTB](.\Images\banner.png)
+![ClippedTB](Images\banner.png)
 # ClippedTB
 #### Add margins, rounded corners as clip region to your taskbars!   
 Most importantly, it is anti-aliased!
 
-![image](.\Images\screenshot.png)
+![image](Images\screenshot.png)
 ## To use
 The simplest way to use ClippedTB is by simply entering margins and corner radius.
  - **Margins** - controls how many pixels to remove from each side of the taskbar, creating a margin around it that you can see but cannot click through.
